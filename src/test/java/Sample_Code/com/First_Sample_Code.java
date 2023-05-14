@@ -6,7 +6,6 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.annotations.Test;
 
-import epicList_Chrome_Account_User.Utility;
 
 public class First_Sample_Code {
 	public WebDriver driver;
